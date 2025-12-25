@@ -18,3 +18,6 @@ gpt2/
 4.66
 
 sms_spam_collection/
+test.csv
+train.csv
+validation.csv
