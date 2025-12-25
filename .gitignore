@@ -1,1 +1,18 @@
 *.pth
+
+# Python cache
+__pycache__/
+*.pyc
+# Model checkpoints / weights
+*.pth
+*.pt
+*.bin
+*.ckpt
+*.h5
+
+# GPT downloaded files
+gpt2/
+*.json
+
+2.15.0
+4.66
